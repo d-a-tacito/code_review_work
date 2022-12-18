@@ -15,8 +15,8 @@ public class Calculator {
         //TODO inser your realisation in method times
         return a*b;
     }
-    public int solver(int a,int b,int c){
+    public int solver(int a,int b,int c,int d, int f){
         //TODO inser your realisation in method solver
-        return (a*b+2023)/c;
+        return (a+b-c*f)/d;
     }
 }
