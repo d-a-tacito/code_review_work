@@ -1,7 +1,7 @@
 public class Calculator {
     public int add(int a, int b){
         //TODO inser your realisation in method add
-        return b+a;
+        return a+b;
     }
     public int dif(int a, int b){
         //TODO inser your realisation in method dif
